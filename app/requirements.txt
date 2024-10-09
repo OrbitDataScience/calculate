@@ -2,3 +2,9 @@ streamlit
 pandas 
 numpy 
 altair
+vega_datasets
+matplotlib
+openpyxl
+gspread
+oauth2client
+streamlit-modal
